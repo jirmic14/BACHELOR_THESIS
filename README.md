@@ -13,6 +13,9 @@
 
 `Bakalárska práca sa zaoberá klasifikáciou dát do dvoch binárnych príjmových kategórií s využitím modelov strojového učenia. Zdrojové dáta jednotlivých občanov USA boli extrahované z databázy Census v roku 1994. Teoretická časť práce sa zaoberá príjmovou situáciou v Spojených štátoch a analýzou súčasného stavu. Praktická časť nadväzuje na nadobudnuté poznatky a postupuje pomocou metodológie CRISP-DM. Využitých je 5 modelov strojového učenia: kNN, Náhodný les, Rozhodovací strom, Logistická regresia a Naivný Bayes. Výsledky jednotlivých modelov sú vizuálne zobrazené pomocou ROC kriviek a matíc zámen.`
 
+### ODKAZ NA ZVEREJNENÚ VERZIU PRÁCE:
+https://opac.crzp.sk/?fn=detailBiblioFormChildUCFFR&sid=9EB7DDC054CB7EBFEA73DFEAFF98&seo=CRZP-detail-kniha
+
 ### ODKAZ NA DOSTUPNÉ DÁTA:
 https://archive.ics.uci.edu/dataset/20/census+income
 
